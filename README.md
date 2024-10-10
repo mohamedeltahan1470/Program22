@@ -2,6 +2,8 @@
 
 This project is a responsive web application for managing mentoring opportunities. It allows users to create, view, and manage opportunities with relevant details.
 
+![Mentoring Opportunity Form Screenshot](./images/readme.png)  <!-- Replace with the actual path or URL of the image -->
+
 ## Table of Contents
 
 - [Features](#features)
